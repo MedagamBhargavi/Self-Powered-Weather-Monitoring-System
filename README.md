@@ -182,13 +182,10 @@ The developed system demonstrates how **IoT, environmental sensors, wireless com
 
 The project provides real-time environmental data while reducing dependence on conventional power sources through solar energy.
 
-## 👩‍💻 Team Members
+## 👩‍💻 Team Member
 
 * **M. Bhargavi**
-* **N. Vennela**
-* **P. V. R. Lakshmi**
-* **T. Pallavi**
-
+  
 Project completed as part of **Design Thinking and Innovation** at **Vasireddy Venkatadri Institute of Technology (VVIT)** under the guidance of **Dr. S. Krishna Prasad, Professor**.
 
 ## 📄 Project Report
@@ -196,8 +193,6 @@ Project completed as part of **Design Thinking and Innovation** at **Vasireddy V
 The complete project report is available in the `docs` folder.
 
 ## ⚠️ Configuration
-
-Before uploading the Arduino source code to a **public GitHub repository**, replace any real Wi-Fi passwords and ThingSpeak API keys with placeholders.
 
 Example:
 
