@@ -1,6 +1,3 @@
-# Self-Powered-Weather-Monitoring-System
-IoT-based solar-powered weather monitoring system using ESP8266, DHT11, BMP280, rain sensor and ThingSpeak for real-time environmental monitoring.
-
 # Self-Powered Weather Monitoring System 🌦️☀️
 
 An **IoT-based self-powered weather monitoring system** designed to collect and monitor environmental parameters such as **temperature, humidity, atmospheric pressure, and rainfall** in real time.
